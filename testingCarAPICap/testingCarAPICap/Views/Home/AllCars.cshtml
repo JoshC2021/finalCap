@@ -1,0 +1,14 @@
+﻿@model List<Car>
+
+<h2>Car List: </h2>
+
+@foreach (Car c in Model)
+{
+    <div style="border: solid 2px black">
+        <p>Make: @c.make</p>
+        <p>Model: @c.model</p>
+        <p>Year: @c.year</p>
+        <p>Color: @c.color</p>
+    </div>
+    <br />
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Q+TFoSIT53CJgUCJGzGQ0SDEemR2OwVbsJNQzEYqHChiphe8HVLrfeTWwAcf7dlhJKat1VS/58gZEsR0pfNJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josh\\source\\repos\\testingCarAPICap\\testingCarAPICap\\testingCarAPICap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
